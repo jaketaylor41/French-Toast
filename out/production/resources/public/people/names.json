@@ -1,0 +1,14 @@
+{
+  "people" : [
+    {"name" : "Zech", "city" : "Whitmore"},
+    {"name" : "Jake", "city" : "Saratoga Springs"},
+    {"name" : "Kym", "city" : "Kailua-Kona"},
+    {"name" : "Joan", "city" : "Chicago"},
+    {"name" : "Lori", "city" : "Miranar"},
+    {"name" : "Manny", "city" : "Santa Anna"},
+    {"name" : "Ted", "city" : "Chicago"},
+    {"name" : "Scott", "city" : "Fridley"},
+    {"name" : "Mark", "city" : "Cooperstown"},
+    {"name" : "Koddie", "city" : "Hexley"}
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FrenchToast.iml" filepath="$PROJECT_DIR$/.idea/modules/FrenchToast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FrenchToast_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FrenchToast_main.iml" group="FrenchToast" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FrenchToast_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FrenchToast_test.iml" group="FrenchToast" />
+    </modules>
+  </component>
+</project>
